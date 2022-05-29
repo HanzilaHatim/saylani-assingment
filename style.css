@@ -1,0 +1,24 @@
+#sidebar{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    padding-left: 40px;
+    background-color:hsl(0deg 0% 97%) ;
+    position: absolute;
+    padding-top: 50px;
+}
+#jenni{
+    position: relative;
+    padding-left: 100px;
+}
+#about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: rgb(247,247,247);
+}
